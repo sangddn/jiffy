@@ -6,6 +6,7 @@ import 'locales/de_locale.dart';
 import 'locales/en_locale.dart';
 import 'locales/es_locale.dart';
 import 'locales/fa_locale.dart';
+import 'locales/fi_locale.dart';
 import 'locales/fr_locale.dart';
 import 'locales/hi_locale.dart';
 import 'locales/hu_locale.dart';
@@ -41,6 +42,7 @@ Map<String, Locale> _supportedLocales = {
   'es': EsLocale(),
   'es_do': EsDoLocale(),
   'es_us': EsUsLocale(),
+  'fi': FiLocale(),
   'fr': FrLocale(),
   'fr_ch': FrChLocale(),
   'fr_ca': FrCaLocale(),
